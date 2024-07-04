@@ -17,6 +17,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_OP4EC1.mk
+    $(LOCAL_DIR)/twrp_OP4E5D.mk
 
-COMMON_LUNCH_CHOICES := twrp_OP4EC1-eng
+COMMON_LUNCH_CHOICES := twrp_OP4E5D-eng
